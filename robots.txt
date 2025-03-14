@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
+Allow: /public/
+
+Sitemap: https://prénom-nom.students-laplateforme.io/sitemap.xml

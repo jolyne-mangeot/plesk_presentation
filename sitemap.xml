@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <url>
+        <loc>https://prénom-nom.students-laplateforme.io/</loc>
+        <lastmod>2025-03-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+
+        <image:image>
+            <image:loc>https://prénom-nom.students-laplateforme.io/images/image perso.webp</image:loc>
+            <image:caption>Portrait de Prénom Nom, Développeuse spécialisée logiciels et jeux immersifs</image:caption>
+            <image:title>Portfolio Prénom Nom</image:title>
+            <image:geo_location>Marseille, France</image:geo_location>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://prénom-nom.students-laplateforme.io/cursus.html</loc>
+        <lastmod>2025-03-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+
+        <image:image>
+            <image:loc>https://prénom-nom.students-laplateforme.io/images/works_article1.webp</image:loc>
+            <image:caption>
+                Projet 1 présentant les travaux de Prénom Nom
+            </image:caption>
+            <image:title>Projet 1 - Portfolio Prénom Nom</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://prénom-nom.students-laplateforme.io/images/works_si_jv1.webp</image:loc>
+            <image:caption>
+                Projet 2 présentant les travaux de Prénom Nom
+            </image:caption>
+            <image:title>Projet 2 - Portfolio Prénom Nom</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://prénom-nom.students-laplateforme.io/cv.pdf</loc>
+        <lastmod>2025-03-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+
+        <image:image>
+            <image:loc>https://prénom-nom.students-laplateforme.io/images/portrait_jolyne_pro.webp</image:loc>
+             <image:caption>Portrait de Prénom Nom, Bachelor à La Plateforme</image:caption>
+            <image:title>Portrait Prénom Nom</image:title>
+            <image:geo_location>Marseille, France</image:geo_location>
+        </image:image>
+    </url>
+</urlset>
