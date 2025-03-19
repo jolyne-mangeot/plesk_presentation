@@ -1,5 +1,5 @@
 # Fansite-Project
-![Bannière readme](docs/images/readme_banner.png)
+![Bannière readme](Perso%20Hors-ligne/plesk_presentation/docs/images/readme_banner.png)
 *Développez un site web fan de vos célébrités favorites*
 
 Vous devez développer un site web de fans regroupant vos célébrités,
