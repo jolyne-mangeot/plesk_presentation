@@ -6,9 +6,9 @@
 
 ---
 ### Templates des fichiers de référencement :
-- (**script Schema.org à retrouver en données du head**)[https://github.com/jolyne-mangeot/plesk_presentation/blob/main/index.html]
-- (**fichier robots.txt permettant l'accès facile aux robots d'exploration**)[https://github.com/jolyne-mangeot/plesk_presentation/blob/main/robots.txt]
-- (**template sitemap.xml à placer en root de notre site**)[https://github.com/jolyne-mangeot/plesk_presentation/blob/main/sitemap.xml]
+- [**script Schema.org à retrouver en données du head**](https://github.com/jolyne-mangeot/plesk_presentation/blob/main/index.html)
+- [**fichier robots.txt permettant l'accès facile aux robots d'exploration**](https://github.com/jolyne-mangeot/plesk_presentation/blob/main/robots.txt)
+- [**template sitemap.xml à placer en root de notre site**](https://github.com/jolyne-mangeot/plesk_presentation/blob/main/sitemap.xml)
 
 ---
 <u>Compétences visées :</u>
